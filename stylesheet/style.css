@@ -26,6 +26,10 @@ body {
     justify-content: space-between;
 
 }
+
+.header-link {
+    display: flex;
+}
     
     
 .hero {
