@@ -26,21 +26,26 @@ li {
 }
 
 .nav-bar {
-    width:60vw;
+    width:75vw;
     display: flex;
     justify-content: space-between;
+    margin-top:10px;
+    margin-bottom:80px;
 
 }
 
 .header-link {
     display: flex;
-    gap:10px
+    gap:10px;
+
+    margin:0;
+    padding:0;
 }
     
     
 .hero {
     
-    width:60vw;
+    width:75vw;
     display:flex;
     
 }
