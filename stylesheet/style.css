@@ -19,7 +19,7 @@ li {
 
 .header {
     width: 100vw;
-    background-color: salmon;
+    background-color: #FF90B0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -112,7 +112,7 @@ li {
 .info-title {
     font-size: 36px;
     font-weight: 800;
-    color: salmon;
+    color: #FF90B0;
 
     margin-top: 60px;
     margin-bottom: 60px;
@@ -146,7 +146,7 @@ li {
 
 .quote {
     background-color: rgb(240, 240, 240);
-    color:salmon;
+    color:#FF90B0;
 
     width:100vw;
 
@@ -194,7 +194,7 @@ li {
 
     width:67vw;
     height: 100px;
-    background-color: salmon;
+    background-color: #FF90B0;
     color: #F9FAF8;
 
     border-radius: 10px;
@@ -212,7 +212,7 @@ li {
     width: 100px;
     height: 25px;
     background-color: #F9FAF8;
-    color: salmon;
+    color: #FF90B0;
     border-radius: 5px;
     border:none;
 
@@ -224,7 +224,7 @@ li {
     justify-content: center;
     align-items: center;
     width:100vw;
-    background-color:salmon;
+    background-color:#FF90B0;
     color: #F9FAF8;
     text-align:center;
     height: 70px;
@@ -233,6 +233,6 @@ li {
 .for-phufah {
     width: 530px;
     height: auto;
-    color: salmon;
+    color: #FF90B0;
     font-size: 48px;
 }
