@@ -49,6 +49,8 @@ li {
     
     width:75vw;
     display:flex;
+
+    margin-bottom: 80px;
     
 }
 
@@ -68,11 +70,20 @@ li {
     color: #E5E7EB;
 }
 
+.hero-title,
+.hero-text,
+.sign-up-button {
+    margin-bottom: 15px;
+}
+
 .hero-title {
     font-size:48px;
     font-weight: 800;
     color: #F9FAF8;
 }
+
+
+
 
 .hero-right {
     background-color: rgb(134, 134, 134);
