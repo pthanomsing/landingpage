@@ -178,9 +178,15 @@ li {
 
 .sign-up-box {
    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     width:67vw;
     height: 100px;
     background-color: #3882F6;
     color: #F9FAF8;
+
+
     
 }
