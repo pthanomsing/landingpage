@@ -187,6 +187,21 @@ li {
     background-color: #3882F6;
     color: #F9FAF8;
 
-
+    border-radius: 10px;
     
+}
+.sign-up-box .sign-up-button {
+    border: 1px solid #F9FAF8;
+}
+
+
+.sign-up-button {
+    
+    width: 100px;
+    height: 25px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
+
+    border:none;
 }
