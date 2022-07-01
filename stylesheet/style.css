@@ -168,3 +168,16 @@ li {
     text-align: right;
     font-weight: bold;
 }
+
+.sign-up {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up-box {
+    background-color: blue;
+    width:67vw;
+    height: 100px;
+}
