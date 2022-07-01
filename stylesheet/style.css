@@ -42,6 +42,8 @@ li {
 
     margin:0;
     padding:0;
+
+    align-items: center;
 }
     
     
@@ -64,6 +66,8 @@ li {
     color: #F9FAF8;
 
     font-family: "Moji";
+
+    
 }
 
 .hero-text {
