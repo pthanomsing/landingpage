@@ -10,6 +10,11 @@ body {
 
 }
 
+li {
+    list-style: none;
+    
+}
+
 .header {
     width: 100vw;
     background-color: #1F2937;
@@ -29,6 +34,7 @@ body {
 
 .header-link {
     display: flex;
+    gap:10px
 }
     
     
