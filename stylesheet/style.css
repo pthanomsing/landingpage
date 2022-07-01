@@ -19,7 +19,7 @@ li {
 
 .header {
     width: 100vw;
-    background-color: #eea4e0;
+    background-color: salmon;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -64,6 +64,10 @@ li {
     color: #F9FAF8;
 }
 
+.hero-text {
+    line-height: 40px;
+}
+
 .header-link,
 .hero-text {
     font-size: 18px;
@@ -88,8 +92,12 @@ li {
     padding-right: 25px;
 }
 .hero-right {
-    background-color: rgb(134, 134, 134);
-    color: #FFFFFF
+    display:flex;
+    
+    align-items: center;
+    text-align:center;
+    background-color: #FFFFFF;
+    border-radius: 20px;
 }
 
 .info {
@@ -104,7 +112,7 @@ li {
 .info-title {
     font-size: 36px;
     font-weight: 800;
-    color: #eea4e0;
+    color: salmon;
 
     margin-top: 60px;
     margin-bottom: 60px;
@@ -126,7 +134,7 @@ li {
     width: 180px;
     height: 180px;
     
-    border: 2px solid #437ed1;
+    
     border-radius: 10%;
 }
 
@@ -135,8 +143,8 @@ li {
 }
 
 .quote {
-    background-color: #FFFFFF;
-    color:#eea4e0;
+    background-color: rgb(240, 240, 240);
+    color:salmon;
 
     width:100vw;
 
@@ -184,7 +192,7 @@ li {
 
     width:67vw;
     height: 100px;
-    background-color: #3882F6;
+    background-color: salmon;
     color: #F9FAF8;
 
     border-radius: 10px;
@@ -201,8 +209,8 @@ li {
     
     width: 100px;
     height: 25px;
-    background-color: #3882F6;
-    color: #F9FAF8;
+    background-color: #F9FAF8;
+    color: salmon;
     border-radius: 5px;
     border:none;
 
@@ -214,8 +222,15 @@ li {
     justify-content: center;
     align-items: center;
     width:100vw;
-    background-color:#eea4e0;
+    background-color:salmon;
     color: #F9FAF8;
     text-align:center;
     height: 70px;
+}
+
+.for-phufah {
+    width: 530px;
+    height: auto;
+    color: salmon;
+    font-size: 48px;
 }
