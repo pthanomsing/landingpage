@@ -28,7 +28,7 @@ li {
 }
 
 .nav-bar {
-    width:75vw;
+    width:67vw;
     display: flex;
     justify-content: space-between;
     margin-top:10px;
@@ -47,7 +47,7 @@ li {
     
 .hero {
     
-    width:75vw;
+    width:67vw;
     display:flex;
 
     margin-bottom: 80px;
