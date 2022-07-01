@@ -133,3 +133,8 @@ li {
 .card-text {
     margin: 10px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    color:#1F2937
+}
