@@ -84,7 +84,9 @@ li {
 
 
 
-
+.hero-left {
+    padding-right: 25px;
+}
 .hero-right {
     background-color: rgb(134, 134, 134);
     color: #FFFFFF
