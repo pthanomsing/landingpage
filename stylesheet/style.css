@@ -136,5 +136,14 @@ li {
 
 .quote {
     background-color: #E5E7EB;
-    color:#1F2937
+    color:#1F2937;
+
+    width:100vw;
+}
+
+.quote-text {
+    width:67vw;
+
+    font-size: 36px;
+    font-weight:lighter;
 }
