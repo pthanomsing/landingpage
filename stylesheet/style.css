@@ -177,7 +177,10 @@ li {
 }
 
 .sign-up-box {
-    background-color: blue;
+   
     width:67vw;
     height: 100px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    
 }
