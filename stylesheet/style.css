@@ -91,3 +91,15 @@ li {
     background-color: rgb(134, 134, 134);
     color: #FFFFFF
 }
+
+.info {
+    display:flex;
+    flex-direction: column;
+
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+}
