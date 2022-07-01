@@ -73,3 +73,8 @@ li {
     font-weight: 800;
     color: #F9FAF8;
 }
+
+.hero-right {
+    background-color: rgb(134, 134, 134);
+    color: #FFFFFF
+}
