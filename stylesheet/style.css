@@ -97,6 +97,8 @@ li {
     flex-direction: column;
 
     text-align: center;
+
+    margin-bottom: 120px;
 }
 
 .info-title {
