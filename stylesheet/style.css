@@ -146,18 +146,25 @@ li {
 
     padding-top: 120px;
     padding-bottom: 120px;
+  
+}
+
+.quote-text,
+.source {
+    width:57vw;
 }
 
 .quote-text {
-    width:67vw;
+  
 
     font-size: 36px;
     font-weight: 50;
     font-style: italic;
+
+    margin-bottom: 20px;
 }
 
 .source {
-    width:67vw;
     text-align: right;
     font-weight: bold;
 }
